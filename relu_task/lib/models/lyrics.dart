@@ -1,6 +1,4 @@
-// To parse this JSON data, do
-//
-//     final lyrics = lyricsFromJson(jsonString);
+
 
 import 'dart:convert';
 
